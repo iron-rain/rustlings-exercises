@@ -4,7 +4,7 @@
 // Make the code compile and the tests pass!
 // If you have issues execute `rustlings hint structs3`
 
-// I AM NOT DONE
+// I AM DONE
 
 #[derive(Debug)]
 struct Package {
