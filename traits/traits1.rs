@@ -8,7 +8,7 @@
 // which appends "Bar" to any object
 // implementing this trait.
 
-// I AM NOT DONE
+// I AM DONE
 
 trait AppendBar {
     fn append_bar(self) -> Self;
